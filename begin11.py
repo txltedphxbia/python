@@ -1,0 +1,8 @@
+a = float(input())
+b = float(input())
+module_a = abs(a)
+module_b = abs(b)
+print(module_a + module_b)
+print(module_a - module_b)
+print(module_a * module_b)
+print(module_a / module_b)
